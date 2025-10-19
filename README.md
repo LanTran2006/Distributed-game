@@ -60,7 +60,7 @@ A real-time multiplayer strategy game where two players compete on a 5x5 grid to
 
 1. **Clone the repository**
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/LanTran2006/Distributed-game
    cd distributed-game
    ```
 
@@ -183,3 +183,4 @@ distributed-game/
 - `board-updated` - Board state has changed
 - `game-result` - Game has ended with win/lose result
 - `opponent-disconnected` - Opponent has left the game
+
